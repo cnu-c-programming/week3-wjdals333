@@ -7,8 +7,7 @@ void print() {
 int square(int n) {
     return n * n;
 }
-int main(void)
-
+int main()
 {
     print();
 
