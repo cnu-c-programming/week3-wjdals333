@@ -7,7 +7,7 @@ void swap(int *x, int *y) {
     *y = temp;
 }
 
-int main(void)
+int main()
 {
     int x = 100, y = 200;
 
