@@ -12,7 +12,7 @@ int power(int base, int exp) {
 
 }
 
-int main(void)
+int main()
 {
     printf("%d\n", power(2, 3));
     printf("%d\n", power(5, 0));
