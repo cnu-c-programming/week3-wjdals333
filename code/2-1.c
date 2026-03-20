@@ -5,7 +5,7 @@ void increment(int x) {
     printf("%d\n", x);
 }
 
-int main(void)
+int main()
 {
     int x = 10;
 
